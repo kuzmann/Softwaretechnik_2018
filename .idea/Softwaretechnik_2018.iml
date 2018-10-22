@@ -3,8 +3,10 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="1.8 (1)" jdkType="JavaSDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="plantuml4idea" level="project" />
+    <orderEntry type="library" exported="" name="plantuml.1.2018.11" level="application" />
+    <orderEntry type="library" name="plantuml4idea" level="application" />
   </component>
 </module>
