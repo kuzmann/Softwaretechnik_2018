@@ -5,8 +5,8 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="plantuml4idea" level="project" />
-    <orderEntry type="library" exported="" name="plantuml.1.2018.11" level="application" />
-    <orderEntry type="library" name="plantuml4idea" level="application" />
+    <orderEntry type="library" name="plantuml4idea" level="project" />
+    <orderEntry type="library" exported="" name="plantuml4idea" level="application" />
+    <orderEntry type="library" exported="" name="plantuml.1.2018.11" level="project" />
   </component>
 </module>
